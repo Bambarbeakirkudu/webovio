@@ -1,3 +1,24 @@
-p {
-    color: rgb(127, 112, 141);
+header {
+background-image: url(Bitmap.png);
+margin-top: 194px;
+margin-left: 201px;
+margin-right: 163px;
+margin-bottom: 10px;
 }
+body {
+    margin-left: 201px;
+    margin-right: 164px;
+}
+.header_title {
+    height: 222px;
+    width: 616px;
+    font-size: 60px;
+    font-style: poppins;
+    line-height: 74px;
+    font-weight: 700;
+    margin-top: 425px;
+    margin-bottom: 368px;
+    margin-left: 367px;
+    margin-right: 822px;
+}
+h2 { color: white;}
