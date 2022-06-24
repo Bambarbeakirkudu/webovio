@@ -1,24 +1,22 @@
-header {
-background-image: url(Bitmap.png);
-margin-top: 194px;
-margin-left: 201px;
-margin-right: 163px;
-margin-bottom: 10px;
-}
 body {
-    margin-left: 201px;
-    margin-right: 164px;
+    margin: 0 auto;
+
 }
-.header_title {
-    height: 222px;
-    width: 616px;
-    font-size: 60px;
-    font-style: poppins;
-    line-height: 74px;
-    font-weight: 700;
-    margin-top: 425px;
-    margin-bottom: 368px;
-    margin-left: 367px;
-    margin-right: 822px;
+header {
+    background-image: url(Bitmap.png);
+    height: 600px;
+    width: 1441px;
+    height: 811px;
 }
-h2 { color: white;}
+.partners {
+    list-style: none;
+    width: 1276px;
+    height: 227px;
+    
+}
+.list-item {
+    
+}
+.navigation_bar {
+    float: top;
+}
